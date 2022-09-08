@@ -11,10 +11,14 @@
  
  Resulting histograms:
  
- Non-Private: ![image](https://user-images.githubusercontent.com/95018675/189114748-b9871793-0787-4d7c-82da-aad00be4695c.png)
+## Non-Private: 
+ 
+ ![image](https://user-images.githubusercontent.com/95018675/189114748-b9871793-0787-4d7c-82da-aad00be4695c.png)
 
  
- Private: ![image](https://user-images.githubusercontent.com/95018675/189114781-76e317a7-ea59-4705-becb-5736ada462d6.png)
+## Private:
+ 
+ ![image](https://user-images.githubusercontent.com/95018675/189114781-76e317a7-ea59-4705-becb-5736ada462d6.png)
 
 They are not so similiar with each other because our epsilon value is small. If epsilon value would be bigger, it would be much more accurate
 but this time, privacy of the dataset would be lowered. It is a trade-off to consider.
